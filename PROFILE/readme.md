@@ -1,12 +1,11 @@
 # Iniciação científica - TRF6 + Dom Helder
 
+Bem-vindo à organização do projeto de uma aplicação mobile para o TRF6 MG, voltada para a denúncia de casos de assédio. Este projeto é realizado como parte de uma iniciativa acadêmica de pesquisa e desenvolvimento, com o objetivo de fornecer uma ferramenta segura e eficiente para a coleta e gerenciamento de denúncias de assédio dentro do próprio TRF6.
+
 <div style="display: inline-block" align="center">
     <img align="center" style="width: 35%; heigth: 25%;" src="/PROFILE/LogoDomHelderDark.png">
     <img align="center" style="width: 20%; heigth: 25%;" src="/PROFILE/Marca-TRF6-branca.png">
 </div>
-
-Bem-vindo à organização do projeto de uma aplicação mobile para o TRF6 MG, voltada para a denúncia de casos de assédio. Este projeto é realizado como parte de uma iniciativa acadêmica de pesquisa e desenvolvimento, com o objetivo de fornecer uma ferramenta segura e eficiente para a coleta e gerenciamento de denúncias de assédio dentro do próprio TRF6.
-
 
 ## Visão Geral
 

@@ -1,0 +1,60 @@
+name: 🧩 Task
+description: Tarefa técnica ou operacional
+title: "[TASK]: "
+labels:
+  - task
+body:
+  - type: textarea
+    attributes:
+      label: Descrição / Contexto
+      description: O que precisa ser feito?
+      placeholder: Descreva a tarefa de forma objetiva.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Objetivos
+      description: O que esperamos alcançar com essa task?
+      placeholder: |
+        - [ ] Objetivo 1
+        - [ ] Objetivo 2
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Escopo
+      description: O que está dentro e fora do escopo desta tarefa?
+      placeholder: |
+        - Dentro do escopo:
+          - Item 1
+          - Item 2
+        - Fora do escopo:
+          - Item 1
+          - Item 2
+    validations:
+      required: true
+  
+  - type: textarea
+    attributes:
+      label: Atividades
+      description: Quais são as etapas ou ações necessárias para completar a tarefa?
+      placeholder: |
+        - [ ] Atividade 1
+        - [ ] Atividade 2
+
+  - type: textarea
+    attributes:
+      label: Critérios de Aceitação
+      description: Quais condições devem ser atendidas para considerar a tarefa concluída?
+      placeholder: |
+        - [ ] Critério 1
+        - [ ] Critério 2
+
+  - type: textarea
+    attributes:
+      label: Observações
+      description: Contexto adicional, links ou dependências.
+    validations:
+      required: false
